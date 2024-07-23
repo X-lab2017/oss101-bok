@@ -184,6 +184,7 @@ plugins:
       # enabled: !ENV [CI, false]
       repository: X-lab2017/open-source-governance-book
       branch: master
+
       exclude:
         - index.md
         - tag.md
