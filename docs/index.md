@@ -7,5 +7,5 @@ hide:
   - feedback
 comments: false
 ---
-# 《开源知识体系与术语解读》
-![架构图](assets/img/jiagou.png)
+# <center> 《开源知识体系与术语解读》</center>
+<center> ![架构图](assets/img/jiagou.png ) </center>
