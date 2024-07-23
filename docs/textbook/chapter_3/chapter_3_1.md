@@ -1,7 +1,6 @@
 ---
-title: 2.1
+title: 第 3 章 许可证
 tags:
-  - 开源 open source
-  - 开源软件
+  - 许可证
 comments: true #默认不开启评论
 ---

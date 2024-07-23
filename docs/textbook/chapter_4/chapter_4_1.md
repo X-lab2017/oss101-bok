@@ -1,7 +1,6 @@
 ---
-title: 2.1
+title: 第 4 章 元数据
 tags:
-  - 开源 open source
-  - 开源软件
+  - 元数据
 comments: true #默认不开启评论
 ---
