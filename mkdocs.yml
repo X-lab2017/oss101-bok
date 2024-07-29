@@ -1,7 +1,7 @@
 site_name: 开源知识体系与术语解读
-site_url: https://X-lab2017.github.io/open-source-governance-book/
-repo_name: open-source-governance-book
-repo_url: https://github.com/X-lab2017/open-source-governance-book
+site_url: https://X-lab2017.github.io/oss101-bok/
+repo_name: oss101-bok
+repo_url: https://github.com/X-lab2017/oss101-bok
 edit_uri: tree/main/docs
 # Copyright
 copyright: Copyright &copy; 2024 X-lab<br>The website content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
@@ -182,7 +182,7 @@ plugins:
         - tag.md
   - git-committers:
       # enabled: !ENV [CI, false]
-      repository: X-lab2017/open-source-governance-book
+      repository: X-lab2017/oss101-bok
       branch: master
 
       exclude:
