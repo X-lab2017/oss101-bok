@@ -1,4 +1,4 @@
-# open-source-governance-book
-**[《开源知识体系与术语解读》](https://www.x-lab.info/open-source-governance-book/)**  
+# oss101-bok
+**[《开源软件通识：知识体系指南》](https://www.x-lab.info/oss101-bok/)**  
 
-<img width="606" alt="image" src="https://github.com/user-attachments/assets/1e3b982d-f0f5-4fdf-94a4-932d1b21101d">  
+![架构图](docs/assets/img/jiagou.png ) 
