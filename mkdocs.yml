@@ -19,20 +19,12 @@ theme:
     - navigation.expand
     - announce.dismiss
     - content.action.edit
-    # - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.tabs.link
     - content.tooltips
     - content.code.copy # 代码支持拷贝
-    # - header.autohide
-    # - navigation.expand
     - navigation.indexes
-    # - navigation.instant
-    # - navigation.prune
-    # - navigation.sections
-    # - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
@@ -42,7 +34,6 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-    # - toc.integrate
   palette:
     - scheme: default
       primary: white
@@ -71,19 +62,12 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.details
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:materialx.emoji.twemoji
-  #     emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.keys
-  # - pymdownx.magiclink:
-  #     repo_url_shorthand: true
-  #     user: squidfunk
-  #     repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.tabbed:
@@ -97,26 +81,6 @@ extra:
       link: /
       lang: zh
   generator: false
-  # analytics:
-  #   provider: google #谷歌分析
-
-  #   property:
-
-  #   # 网页底部反馈
-  #   feedback:
-  #     title: 此页面有帮助吗？
-  #     ratings:
-  #       - icon: material/thumb-up-outline #图标可自定义
-  #         name: This page was helpful
-  #         data: 1
-  #         note: >-
-  #           谢谢你的反馈！
-  #       - icon: material/thumb-down-outline
-  #         name: This page could be improved
-  #         data: 0
-  #         note: >-
-  #           Thanks for your feedback! Help us improve this page by
-  #           using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/X-lab2017
@@ -125,11 +89,10 @@ extra:
       link: mailto:<wwang@dase.ecnu.edu.cn> #邮件联系方式
   status:
     new: 最近添加
-# generator: false
 nav:
   - 首页: index.md
   - 教材:
-    - 开源知识体系与术语解读:
+    - 开源软件通识：知识体系指南:
         - 第 1 章 开源知识体系:
           - 1.1 背景与目标: textbook/chapter_1/chapter_1_1.md
           - 1.2 知识体系与框架: textbook/chapter_1/chapter_1_2.md
@@ -171,8 +134,8 @@ nav:
       - index: blog/index.md
 plugins:
   - glightbox
-  # - search:
-  #     separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - search
   - git-revision-date-localized: # 支持文档创建时间显示， https://github.com/timvink/mkdocs-git-revision-date-localized-plugin
       locale: zh
@@ -198,8 +161,5 @@ plugins:
       post_readtime: true
       post_readtime_words_per_minute: 265 #计算帖子的阅读时间时读者每分钟预计阅读的字数
       post_url_format: "{date}/{slug}"
-      # categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
-      #   kwds:
-      #     case: lower
       pagination_url_format: "page/{page}"
       authors_file: "{blog}/.authors.yml" #作者信息
