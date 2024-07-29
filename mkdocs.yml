@@ -127,6 +127,7 @@ extra:
     new: 最近添加
 # generator: false
 nav:
+  - 首页: index.md
   - 教材:
     - 开源知识体系与术语解读:
         - 第 1 章 开源知识体系:
