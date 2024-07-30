@@ -9,9 +9,8 @@
 <img src="docs/assets/img/jiagou.png" width="600px">
 </div>
 
-# 贡献流程
+# 贡献指南
 > 为了更好地管理仓库，我们建议贡献者通过Fork的方式进行修改，然后提交Pull Request以完成贡献。
-## 贡献步骤
 1. 克隆仓库
    1. Fork本仓库到自己的GitHub账号
    2. 也可以页面中的点击“编辑图标”，如果遇到“需要 Fork 此仓库”的提示，请同意该操作。
