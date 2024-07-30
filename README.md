@@ -40,11 +40,11 @@
             ```
             pip install mkdocs-material
             ```
-       2. MkDocs包含一个试试预览的服务，所有可以在撰写文档的过程中进行实时预览。当文档修改保存后，这个服务会自动重建整个网站的文档。使用以下命令启动：
+       2. MkDocs包含一个实时预览的服务，所有可以在撰写文档的过程中进行实时预览。当文档修改保存后，这个服务会自动重建整个网站的文档。使用以下命令启动：
             ```
             mkdocs serve
             ```
-            浏览器打开 [localhost:8000](localhost:8000) ，应该就能看到类似下图所示的内容：
+            浏览器打开 [localhost:8000](http://127.0.0.1:8000) ，应该就能看到类似下图所示的内容：
             <div align=center>
                 <img src="docs/assets/img/snapshot.png" >
             </div>
