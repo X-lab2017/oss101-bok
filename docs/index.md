@@ -19,6 +19,7 @@ comments: false
 
 #### 本书目录
 **第 1 章 开源知识体系**
+
 - 1.1 [背景与目标](https://www.x-lab.info/oss101-bok/textbook/chapter_1/chapter_1_1/)
 - 1.2 [知识体系与框架](https://www.x-lab.info/oss101-bok/textbook/chapter_1/chapter_1_2/)
 - 1.3 [本书组织与结构](https://www.x-lab.info/oss101-bok/textbook/chapter_1/chapter_1_3/)
@@ -26,6 +27,7 @@ comments: false
 **第一部分 基础**
 
 **第 2 章 基本概念**
+
 - 开源 open source
 - 开源软件
 - 开放数据 open data
@@ -36,6 +38,7 @@ comments: false
 - 开源基金会 open source foundation
 
 **第 3 章 许可证**
+
 - 许可证
 - 开源许可证 open source license
 - 贡献者许可协议 Contributor License Agreement；CLA
@@ -46,10 +49,12 @@ comments: false
 - 自述文件 readme
 
 **第 4 章 元数据**
+
 - 元数据
 - 开源元数据
 
 **第二部分 治理**
+
 - 开源治理 open source governance
 - 开源治理要素 open source governance element
 - 开源治理域 open source governance domain
