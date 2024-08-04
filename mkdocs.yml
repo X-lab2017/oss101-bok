@@ -93,49 +93,49 @@ nav:
   - 首页: index.md
   - 教材:
     - 开源软件通识：知识体系指南:
-        - 第 1 章 开源知识体系:
-          - 1.1 背景与目标: textbook/chapter_1/chapter_1_1.md
-          - 1.2 知识体系与框架: textbook/chapter_1/chapter_1_2.md
-          - 1.3 本书组织与结构: textbook/chapter_1/chapter_1_3.md
-        - 第一部分 基础:
-          - 第 2 章 基本概念:
-            - 开源: textbook/chapter_2/chapter_2_1.md
-            - 开源软件: textbook/chapter_2/chapter_2_2.md
-            - 开放数据: textbook/chapter_2/chapter_2_3.md
-            - 开源软件生态系统: textbook/chapter_2/chapter_2_4.md
-            - 开源上游: textbook/chapter_2/chapter_2_5.md
-            - 开源组织: textbook/chapter_2/chapter_2_6.md
-            - 开源社区: textbook/chapter_2/chapter_2_7.md
-            - 开源基金会: textbook/chapter_2/chapter_2_8.md
-          - 第 3 章 许可证:
-              - 3.1: textbook/chapter_3/chapter_3_1.md
-          - 第 4 章 元数据:
-              - 4.1: textbook/chapter_4/chapter_4_1.md
-        - 第二部分 治理:
-          - 第 5 章 企业:
-              - 5.1: textbook/chapter_5/chapter_5_1.md
-          - 第 6 章 社区:
-              - 6.1: textbook/chapter_6/chapter_6_1.md
-          - 第 7 章 项目:
-              - 7.1: textbook/chapter_7/chapter_7_1.md
-          - 第 8 章 开发者:
-              - 8.1: textbook/chapter_8/chapter_8_1.md
-        - 第三部分 安全:
-          - 第 9 章 基础:
-              - 9.1: textbook/chapter_9/chapter_9_1.md
-          - 第 10 章 应用:
-              - 10.1: textbook/chapter_10/chapter_10_1.md
-          - 第 11 章 运营:
-              - 11.1: textbook/chapter_11/chapter_11_1.md
-        - 第四部分 应用:
-          - 第 12 章 技术:
-              - 12.1: textbook/chapter_12/chapter_12_1.md
-          - 第 13 章 方案:
-              - 13.1: textbook/chapter_13/chapter_13_1.md
-          - 第 14 章 测评:
-              - 14.1: textbook/chapter_14/chapter_14_1.md
-          - 第 15 章 服务:
-              - 15.1: textbook/chapter_15/chapter_15_1.md
+      - 第 1 章 开源知识体系:
+        - 1.1 背景与目标: textbook/chapter_1/chapter_1_1.md
+        - 1.2 知识体系与框架: textbook/chapter_1/chapter_1_2.md
+        - 1.3 本书组织与结构: textbook/chapter_1/chapter_1_3.md
+      - 第一部分 基础:
+        - 第 2 章 基本概念:
+          - 开源（open source）: textbook/chapter_2/chapter_2_1.md
+          - 开源软件: textbook/chapter_2/chapter_2_2.md
+          - 开放数据: textbook/chapter_2/chapter_2_3.md
+          - 开源软件生态系统: textbook/chapter_2/chapter_2_4.md
+          - 开源上游: textbook/chapter_2/chapter_2_5.md
+          - 开源组织: textbook/chapter_2/chapter_2_6.md
+          - 开源社区: textbook/chapter_2/chapter_2_7.md
+          - 开源基金会: textbook/chapter_2/chapter_2_8.md
+        - 第 3 章 许可证:
+          - 3.1: textbook/chapter_3/chapter_3_1.md
+        - 第 4 章 元数据:
+          - 4.1: textbook/chapter_4/chapter_4_1.md
+      - 第二部分 治理:
+        - 第 5 章 企业:
+          - 5.1: textbook/chapter_5/chapter_5_1.md
+        - 第 6 章 社区:
+          - 6.1: textbook/chapter_6/chapter_6_1.md
+        - 第 7 章 项目:
+          - 7.1: textbook/chapter_7/chapter_7_1.md
+        - 第 8 章 开发者:
+          - 8.1: textbook/chapter_8/chapter_8_1.md
+      - 第三部分 安全:
+        - 第 9 章 基础:
+          - 9.1: textbook/chapter_9/chapter_9_1.md
+        - 第 10 章 应用:
+          - 10.1: textbook/chapter_10/chapter_10_1.md
+        - 第 11 章 运营:
+          - 11.1: textbook/chapter_11/chapter_11_1.md
+      - 第四部分 应用:
+        - 第 12 章 技术:
+          - 12.1: textbook/chapter_12/chapter_12_1.md
+        - 第 13 章 方案:
+          - 13.1: textbook/chapter_13/chapter_13_1.md
+        - 第 14 章 测评:
+          - 14.1: textbook/chapter_14/chapter_14_1.md
+        - 第 15 章 服务:
+          - 15.1: textbook/chapter_15/chapter_15_1.md
   - 标签: tag.md
   - 日志:
       - index: blog/index.md
